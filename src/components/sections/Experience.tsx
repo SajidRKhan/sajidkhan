@@ -140,7 +140,7 @@ export default function Experience() {
             </p>
           </div>
 
-          <a href="/resume.pdf" target="_blank">
+          <a href="/sajid_r_khan_resume.pdf" target="_blank">
             Download résumé
             <span aria-hidden="true">↗</span>
           </a>
