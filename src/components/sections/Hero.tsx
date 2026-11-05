@@ -37,7 +37,7 @@ export default function Hero() {
                   <span aria-hidden="true">↓</span>
                 </a>
 
-                <a href="/resume.pdf" target="_blank" className="button button-secondary">
+                <a href="/sajid_r_khan_resume.pdf" target="_blank" className="button button-secondary">
                   Download résumé
                   <span aria-hidden="true">↗</span>
                 </a>
