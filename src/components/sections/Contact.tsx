@@ -3,8 +3,8 @@
 const contactLinks = [
   {
     label: "Email",
-    value: "srk167025@gmail.com",
-    href: "mailto:srk167025@gmail.com",
+    value: "sajidkhanlive@outlook.com",
+    href: "mailto:sajidkhanlive@outlook.com",
   },
   {
     label: "LinkedIn",
@@ -53,7 +53,7 @@ export default function Contact() {
               </p>
 
               <a
-                href="mailto:srk167025@gmail.com"
+                href="mailto:sajidkhanlive@outlook.com"
                 className="contact-primary"
               >
                 Start a conversation
