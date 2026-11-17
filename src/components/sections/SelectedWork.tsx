@@ -26,7 +26,7 @@ const projects = [
     stat: "Live",
     statLabel: "Flight Search",
     image: "/projects/farescanner.webp",
-    url: "https://hf.ynaps-test.space/flight_v4/",
+    url: "https://farescanner.travel/",
     slug: "farescanner",
     theme: "fare",
   },
