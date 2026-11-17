@@ -23,7 +23,7 @@ const projects = [
     stack: ["CodeIgniter", "REST API", "MySQL", "Razorpay"],
     image: "/projects/farescanner.webp",
     type: "Web Application",
-    url: "https://hf.ynaps-test.space/flight_v4/",
+    url: "https://farescanner.travel/",
   },
   {
     number: "03",
