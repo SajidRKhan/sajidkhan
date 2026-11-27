@@ -16,7 +16,7 @@ export default function Hero() {
                 Available for freelance &amp; remote work
               </div>
 
-              <p className="hero-eyebrow">FULL-STACK DEVELOPER</p>
+              <p className="hero-eyebrow">SENIOR FULL-STACK DEVELOPER</p>
 
               <h1 className="hero-title">
                 I build software
@@ -37,7 +37,7 @@ export default function Hero() {
                   <span aria-hidden="true">↓</span>
                 </a>
 
-                <a href="/sajid_r_khan_resume.pdf" target="_blank" className="button button-secondary">
+                <a href="/sajid_r_khan_resume_premium_final.pdf" target="_blank" className="button button-secondary">
                   Download résumé
                   <span aria-hidden="true">↗</span>
                 </a>
@@ -124,7 +124,7 @@ export default function Hero() {
 
             <div className="hero-stack">
               <span>CORE STACK</span>
-              <p>PHP · Laravel · CodeIgniter · JavaScript</p>
+              <p>PHP · Laravel · CodeIgniter · MySQL · JavaScript</p>
             </div>
           </div>
         </Container>
