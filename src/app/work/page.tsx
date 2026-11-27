@@ -4,6 +4,16 @@ import Image from "next/image";
 
 const projects = [
   {
+    number: "17",
+    title: "Tamkeen Stores",
+    category: "Retail & E-commerce Platform",
+    description: "Saudi retail e-commerce project associated with my work at Tamkeen International Co., including web development and team leadership responsibilities.",
+    stack: ["E-commerce", "Web Development", "Team Leadership"],
+    image: "",
+    type: "E-commerce",
+    url: "https://tamkeenstores.com.sa/",
+  },
+  {
     number: "01",
     title: "United Motors",
     category: "B2B Automotive Parts Platform",
@@ -254,12 +264,12 @@ export default function WorkPage() {
                       className="archive-project-image"
                       aria-label={`Visit ${project.title}`}
                     >
-                      <Image
+                      {project.image ? <Image
                         src={project.image}
                         alt={`${project.title} project`}
                         fill
                         sizes="(max-width: 768px) 100vw, 50vw"
-                      />
+                      /> : <div style={{position: "absolute", inset: 0, display: "grid", placeItems: "center", background: "#17232e", color: "#fff", fontSize: "1.5rem", fontWeight: 700}}>{project.title}</div>}
 
                       <span className="archive-project-number">
                         {project.number}
@@ -275,12 +285,12 @@ export default function WorkPage() {
                     </a>
                   ) : (
                     <div className="archive-project-image">
-                      <Image
+                      {project.image ? <Image
                         src={project.image}
                         alt={`${project.title} project`}
                         fill
                         sizes="(max-width: 768px) 100vw, 50vw"
-                      />
+                      /> : <div style={{position: "absolute", inset: 0, display: "grid", placeItems: "center", background: "#17232e", color: "#fff", fontSize: "1.5rem", fontWeight: 700}}>{project.title}</div>}
 
                       <span className="archive-project-number">
                         {project.number}
