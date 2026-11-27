@@ -49,7 +49,7 @@ export default function About() {
 
           <div className="about-content">
             <p className="about-lead">
-              I&apos;m a full-stack developer focused on building
+              I&apos;m a senior full-stack developer focused on building
               production-ready web applications and digital products.
             </p>
 
@@ -63,7 +63,7 @@ export default function About() {
             <p className="about-copy">
               I&apos;ve worked on SaaS products, marketplaces, booking
               platforms, business systems and custom web applications, with a
-              focus on maintainable code and practical solutions to real
+              focus on team leadership, problem-solving, maintainable code and practical solutions to real
               business problems.
             </p>
 
