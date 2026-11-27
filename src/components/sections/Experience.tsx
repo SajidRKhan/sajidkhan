@@ -6,7 +6,7 @@ const experiences = [
     location: "Remote",
     period: "Mar 2022 — Jul 2026",
     description:
-      "Built and maintained custom web applications, CMS modules, e-commerce features and admin dashboards. Developed CodeIgniter workflows for authentication, reporting, file uploads, dynamic content and database-driven modules while delivering responsive user interfaces and production deployments.",
+      "Built and maintained custom web applications, CMS modules, e-commerce features and admin dashboards. Developed CodeIgniter workflows for authentication, reporting, file uploads, dynamic content and database-driven modules while delivering responsive user interfaces and production deployments. Took on team leadership responsibilities, coordinating development tasks, reviewing solutions and supporting developers.",
     stack: ["PHP", "CodeIgniter", "Laravel", "MySQL", "JavaScript", "jQuery"],
   },
   {
@@ -16,7 +16,7 @@ const experiences = [
     location: "Jeddah, Saudi Arabia",
     period: "Jul 2020 — Sep 2024",
     description:
-      "Developed responsive web applications, role-based dashboards, scalable backend modules and e-commerce functionality using CodeIgniter and MySQL. Worked across testing, validation, database management, debugging and deployment.",
+      "Developed responsive web applications, role-based dashboards, scalable backend modules and e-commerce functionality using CodeIgniter and MySQL. Worked across testing, validation, database management, debugging and deployment. Took on team leadership responsibilities, coordinating implementation, supporting developers and resolving technical issues.",
     stack: ["PHP", "CodeIgniter", "MySQL", "JavaScript", "jQuery", "Bootstrap"],
   },
   {
@@ -140,7 +140,7 @@ export default function Experience() {
             </p>
           </div>
 
-          <a href="/sajid_r_khan_resume.pdf" target="_blank">
+          <a href="/sajid_r_khan_resume_premium_final.pdf" target="_blank">
             Download résumé
             <span aria-hidden="true">↗</span>
           </a>
